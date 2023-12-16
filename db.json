@@ -1,0 +1,74 @@
+{
+  "doctors": [
+    {
+      "name": "Srija",
+      "salary": "50000",
+      "gender": "Female",
+      "age": "20",
+      "specialization": "Mbbs",
+      "id": 1
+    },
+    {
+      "name": "sravanthi",
+      "salary": "100000",
+      "gender": "Female",
+      "age": "23",
+      "specialization": "ENT",
+      "id": 2
+    },
+    {
+      "name": "Luke Sundar",
+      "salary": "500000",
+      "gender": "Male",
+      "age": "30",
+      "specialization": "Cardiologist",
+      "id": 3
+    },
+    {
+      "name": "Vamsi",
+      "salary": "100000",
+      "gender": "male",
+      "age": "30",
+      "specialization": "neurologist",
+      "id": 4
+    }
+  ],
+  "patients": [
+    {
+      "name": "mounika",
+      "weight": "55",
+      "gender": "Female",
+      "age": "21",
+      "disease": "Gastric",
+      "doctor": "Srija",
+      "id": 1
+    },
+    {
+      "name": "indrani",
+      "weight": "50",
+      "gender": "Female",
+      "age": "26",
+      "disease": "Stomachache",
+      "doctor": "sravanthi",
+      "id": 2
+    },
+    {
+      "name": "Basanth",
+      "weight": "60",
+      "gender": "Male",
+      "age": "25",
+      "disease": "Influenza",
+      "doctor": "Luke Sundar",
+      "id": 3
+    },
+    {
+      "name": "sunny",
+      "weight": "68",
+      "gender": "male",
+      "age": "27",
+      "disease": "myopia",
+      "doctor": "sravanthi",
+      "id": 4
+    }
+  ]
+}
